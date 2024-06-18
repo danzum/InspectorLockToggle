@@ -1,4 +1,4 @@
-# InspectorLockToggle
+# Object InspectorLockToggle / Переключатель блокировки объекта инспектора 
 This script makes it possible to lock selected object in inspector with hotkey. 
 Drop this script anywhere in your project(i recommend to create separate folder). 
 Now if you press ALT + Q, your selected object will be locked, for unlock should press ALT + Q again.
